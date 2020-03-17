@@ -1,0 +1,36 @@
+/* style.css */
+#radioitems label:nth-child(1) {
+  color: rgb(226, 53, 88);
+}
+
+#radioitems label:nth-child(2) {
+  color: rgb(165, 50, 189);
+}
+
+#radioitems label:nth-child(3) {
+  color: rgb(240, 218, 106);
+}
+
+#radioitems label:nth-child(4) {
+  color: rgb(106, 164, 190);
+}
+
+#radioitems label:nth-child(5) {
+  color: rgb(213, 159, 97);
+}
+
+#radioitems label:nth-child(6) {
+  color: rgb(134, 185, 126);
+}
+
+#radioitems label:nth-child(7) {
+  color: rgb(127, 156, 200);
+}
+
+#radioitems label:nth-child(8) {
+  color: rgb(168, 200, 70);
+}
+
+#radioitems > div {
+  display: flex;
+}
